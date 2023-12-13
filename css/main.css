@@ -1,4 +1,4 @@
-h1 {
+/* h1 {
     color: orange;
     background-color: slategray;
     font-size: 20px;
@@ -29,4 +29,17 @@ li {
     list-style-type:none;
     /* text-shadow: 2px 2px lightgray;  */
     text-shadow: 2px 2px rgb(117, 53, 72);
+} */
+
+span{
+    display: block;
+    margin: 20px;
+    padding: 20px
+}
+
+div{
+    /* display: inline; */
+    border: 2px solid crimson;
+    margin: 20px;
+    padding: 20px;
 }
